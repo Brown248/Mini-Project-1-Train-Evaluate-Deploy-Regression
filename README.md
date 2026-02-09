@@ -1,6 +1,6 @@
 # Student Performance Prediction Web App
 
-[![Streamlit App](https://share.streamlit.io/)](https://mini-project-1-train-evaluate-deploy-regression-f5wdwjpdaystir.streamlit.app/])
+[(https://share.streamlit.io/)](https://mini-project-1-train-evaluate-deploy-regression-f5wdwjpdaystir.streamlit.app/])
 
 โปรเจกต์นี้เป็นส่วนหนึ่งของรายวิชา AIE322_388A **[1660904291/นาย สุวัฒน์ แก่นจันทร์]** (Mini Project 1)
 โดยมีวัตถุประสงค์เพื่อสร้าง Web Application สำหรับทำนายผลคะแนนสอบของนักเรียน โดยใช้เทคนิค **Multiple Linear Regression**
